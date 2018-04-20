@@ -8,6 +8,10 @@
       <version>1.0.0aar</version>
       <version>1.0.0</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20180420081643</lastUpdated>
+=======
+    <lastUpdated>20180420081412</lastUpdated>
+>>>>>>> d20cbf45fd4d713a548e4a122570d30b927901d9
   </versioning>
 </metadata>
